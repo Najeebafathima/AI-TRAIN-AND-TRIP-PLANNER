@@ -1,0 +1,5 @@
+train_no,name,from_city,to_city,departure,arrival,days
+12723,Telangana Express,Hyderabad,New Delhi,06:25,05:30,Daily
+12759,Charminar Express,Hyderabad,Chennai,18:30,06:15,Daily
+17031,Mumbai Express,Hyderabad,Mumbai,21:05,12:40,Daily
+12785,Kacheguda Bangalore Express,Hyderabad,Bengaluru,19:00,06:30,Daily
